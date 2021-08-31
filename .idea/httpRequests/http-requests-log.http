@@ -1,0 +1,18 @@
+POST http://localhost:8001/payment/create
+
+<> 2021-07-15T143840.200.json
+
+###
+
+POST http://localhost:8001/payment/create
+
+<> 2021-07-15T143825.200.json
+
+###
+
+POST http://localhost:8001/payment/create
+
+<> 2021-07-15T143816.200.json
+
+###
+
